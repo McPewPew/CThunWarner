@@ -1,3 +1,5 @@
+Folder structure changed to support Turtle WoW's Launcher.
+
 # CThunWarner
 Provides information for C'Thun raids.
 
